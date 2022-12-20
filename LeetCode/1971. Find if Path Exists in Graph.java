@@ -1,12 +1,13 @@
-package LeetCode;
+package leetcode;
 
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/find-if-path-exists-in-graph/
+ * 1971. Find if Path Exists in Graph
+ * https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/862368978/
  * solved: 2022-12-19
  */
-public class Solution {
+class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
         Map<Integer, Set<Integer>> nodes = new HashMap<>();
 
