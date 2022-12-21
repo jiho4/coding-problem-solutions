@@ -1,4 +1,4 @@
-coding-problem-solutions
+solved-coding-problems
 =========================
 - created: 2022-12-19
 
